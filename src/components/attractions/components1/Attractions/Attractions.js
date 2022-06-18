@@ -49,7 +49,7 @@ const roomList = [
   {
     image: 'https://i.imgur.com/WP3Stq5.jpg',
     title: "Riverside Country Club",
-    ref: "https://www.google.com/maps/place/Meenan's+Cove+Beach/@45.4585,-65.946041,14z/data=!4m13!1m7!3m6!1s0x4ca655205ee5e6bb:0x9f05b85fccdbf51d!2sGondola+Point+Beach!3b1!8m2!3d45.4530113!4d-65.9793323!3m4!1s0x4ca7aac90ff016bd:0xa1111d2f94989235!8m2!3d45.4585!4d-65.9356298?hl=en-CA"
+    ref: "https://www.google.com/maps/place/Riverside+Country+Club/@45.3824345,-66.0056886,15z/data=!4m13!1m7!3m6!1s0x4ca655205ee5e6bb:0x9f05b85fccdbf51d!2sGondola+Point+Beach!3b1!8m2!3d45.4530113!4d-65.9793323!3m4!1s0x4ca7ad24f10d9937:0xe436b0d7fffe4b6f!8m2!3d45.3709272!4d-66.0079569?hl=en-CA"
   },
   {
     image: 'https://i.imgur.com/BZpAZsr.jpg',

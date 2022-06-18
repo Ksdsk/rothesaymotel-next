@@ -54,6 +54,17 @@ const Footer = () => {
               <Link
                 underline="none"
                 component="a"
+                href="/guest-policy"
+                color="text.primary"
+                variant={'subtitle2'}
+              >
+                Guest Policy
+              </Link>
+            </Box>
+            <Box marginTop={1} marginRight={2}>
+              <Link
+                underline="none"
+                component="a"
                 href="/contact-us"
                 color="text.primary"
                 variant={'subtitle2'}

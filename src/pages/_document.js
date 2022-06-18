@@ -12,12 +12,12 @@ export default class MyDocument extends Document {
           <meta charSet="utf-8" />
           <link
             rel="shortcut icon"
-            href="https://assets.maccarianagency.com/favicons/thefront/favicon.ico"
+            href="/favicon.ico"
           />
           <meta name="theme-color" content="#ffffff" />
           <meta
             name="description"
-            content="A modern design system for your new landing and web pages."
+            content="Feel comfort in the heart of Rothesay"
           />
           <meta
             name="robots"
@@ -27,19 +27,19 @@ export default class MyDocument extends Document {
           <meta property="og:type" content="website" />
           <meta
             property="og:image"
-            content="https://assets.maccarianagency.com/screenshots/the-front/social.png"
+            content="https://i.imgur.com/vwLiUMw.jpg"
           />
           <meta
             property="og:title"
-            content="theFront | UI Kit by Maccarian Agency."
+            content="Rothesay Motel"
           />
           <meta
             property="og:description"
-            content="A modern design system for your new landing and web pages."
+            content="Feel comfort in the heart of Rothesay"
           />
           <meta
             property="og:url"
-            content="https://thefront.maccarianagency.com/"
+            content="https://www.rothesaymotel.com/"
           />
           <link rel="preconnect" href="https://fonts.gstatic.com" />
           <link

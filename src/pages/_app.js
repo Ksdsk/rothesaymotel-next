@@ -19,6 +19,7 @@ export default function App({ Component, pageProps }) {
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
         <title>Rothesay Motel</title>
+        <link rel="shortcut icon" href="/favicon.ico" />
       </Head>
       <Page>
         <Component {...pageProps} />
