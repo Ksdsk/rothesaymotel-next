@@ -18,42 +18,48 @@ const mock = [
     title: 'Historic Cabin',
     price: '$70 ~ $95 / night',
     beds: '1 Double Bed',
-    description: '1 Guest'
+    description: '1 Guest',
+    href: '/rooms/historic-cabin'
   },
   {
     media: 'https://i.imgur.com/cQb5FVZ.jpg',
     title: 'Motel Units / 1 Bed',
     price: '$95 - $130 / night',
     beds: '1 King Bed',
-    description: '1-2 Guests + 1 Child'
+    description: '1-2 Guests + 1 Child',
+    href: '/rooms/motel-units'
   },
   {
     media: 'https://i.imgur.com/NtZtO97.jpg',
     title: 'Motel Units / 2 Beds',
     price: '$95 ~ $136 / night',
     beds: '2 Double Beds OR 2 Queen Beds',
-    description: '2-4 Guests'
+    description: '2-4 Guests',
+    href: '/rooms/motel-units'
   },
   {
     media: 'https://i.imgur.com/tLqYptR.jpg',
     title: 'Apartments',
     price: '$130 ~ $189 / night',
     beds: 'Options from 2 Double Beds to 2 Queen Beds',
-    description: '2-4 Guests'
+    description: '2-4 Guests',
+    href: '/rooms/apartments'
   },
   {
     media: 'https://i.imgur.com/OlASSxP.jpg',
     title: 'Cottage',
     price: '$169 ~ $199 / night',
     beds: '2 Queen Beds + One Futon Bed',
-    description: '2~5 Guests'
+    description: '2~5 Guests',
+    href: '/rooms/cottage'
   },
   {
     media: 'https://i.imgur.com/8KQOQQl.jpg',
     title: 'Deluxe Family House',
     price: '$240 ~ $289 / night',
     beds: '3 Queen Beds + One Single Bed',
-    description: '4-6 Guests'
+    description: '4-6 Guests',
+    href: '/rooms/deluxe-family-house'
   },
 ];
 
@@ -193,6 +199,7 @@ const FeaturedProperties = () => {
                   </Box>
                   <CardActions sx={{ justifyContent: 'flex-end' }}>
                     <Button
+                      href={item.href}
                       endIcon={
                         <Box
                           component={'svg'}
