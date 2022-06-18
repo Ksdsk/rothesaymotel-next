@@ -1,4 +1,8 @@
 [build]
-    command = "yarn run build && yarn run export && yarn run start"
+    command = "yarn run build && yarn run export && yarn run"
     publish = ".next"
 
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
