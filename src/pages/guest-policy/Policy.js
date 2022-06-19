@@ -33,7 +33,7 @@ const CompanyTerms = () => {
                   color: theme.palette.common.white,
                 }}
               >
-                Last modified on <strong>17 Jun, 2022</strong>
+                Last modified on <strong>19 Jun, 2022</strong>
               </Typography>
             </Container>
             <Box
