@@ -10,13 +10,13 @@ const mock = [
       'Here at Rothesay Motel, smoking, using e-cigarettes or any of its kinds, and tobacco products in the room is strictly prohibited. Please smoke outdoors and safely dispose the used smokes.\n\n' +
       'Pets are not allowed within rooms and property.\n\n' +
       'Any broken piece of the property must be reported to the front desk.\n\n' + 
-      'Guests failing to comply with our general policy will result in a $200 penalty, plus applicable charges.'
+      'Guests failing to comply with our general policy will result in a $200 penalty x [Number of nights booked], plus applicable charges.'
   },
   {
     title: 'CANCELLATION POLICY',
     description:
       'Guests may cancel or modify your reservations five days before arrival and receive a full refund.\n\n' +
-      'In the case where the guests do not cancel or modify their booking within five days before arrival, the guests will be fully charged for their promised booking. We recommend guests to contact us right away.'
+      'In the case where the guests do not cancel or modify their booking within five days before arrival, the guests will be fully charged for their promised booking periods. We recommend guests to contact us right away.'
   },
   {
     title: 'PARKING',
@@ -28,7 +28,6 @@ const mock = [
     description:
       'Guests are entitled to our free Wi-Fi access for their booking duration. Illegal activities on the Wi-Fi is strictly forbidden, and will be traced back to the user for any legal dispute. Deluxe Family Suite guests are entitled to both the private and public Wi-Fi access.\n\n' +
       'Guests may leave their keys inside their rooms when checking out.\n\n' +
-      'Please put up a "Clean my room" or "Do not disturb" sign to let us know your needs. We would appreicate it if you put up the sign before 12:00PM, local time.\n\n' +
       'Guests are entitled to our complimentary BBQ grills available at designated sites in the property. Please use them respectfully for the other guests.'
   },
   {
