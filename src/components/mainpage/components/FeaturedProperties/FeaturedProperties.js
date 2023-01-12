@@ -40,7 +40,7 @@ const mock = [
   {
     media: 'https://i.imgur.com/tLqYptR.jpg',
     title: 'Apartments',
-    price: '$130 ~ $189 / night',
+    price: '$145 ~ $199 / night',
     beds: 'Options from 2 Double Beds to 2 Queen Beds',
     description: '2-4 Guests',
     href: '/rooms/apartments'
@@ -48,7 +48,7 @@ const mock = [
   {
     media: 'https://i.imgur.com/OlASSxP.jpg',
     title: 'Cottage',
-    price: '$169 ~ $199 / night',
+    price: '$169 ~ $259 / night',
     beds: '2 Queen Beds + One Futon Bed',
     description: '2~5 Guests',
     href: '/rooms/cottage'
@@ -56,7 +56,7 @@ const mock = [
   {
     media: 'https://i.imgur.com/8KQOQQl.jpg',
     title: 'Deluxe Family House',
-    price: '$240 ~ $289 / night',
+    price: '$259 ~ $359/ night',
     beds: '3 Queen Beds + One Single Bed',
     description: '4-6 Guests',
     href: '/rooms/deluxe-family-house'
