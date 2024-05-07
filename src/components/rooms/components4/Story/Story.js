@@ -22,7 +22,7 @@ const Story = () => {
             </Typography>
             <Typography component={'p'}>
             An entire 2,000+ sq.ft fully-furnished home for you and your loved ones. 
-            Each of the three bedrooms include a queen bed. There is another single bed in the den. 
+            Each of the three bedrooms include a queen bed.
             You should look to book our House for a long vacation with your family in the heart of Rothesay.
             </Typography>
           </Box>

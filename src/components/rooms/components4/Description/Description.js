@@ -31,7 +31,7 @@ const WhatsIncluded = () => {
               Deluxe Family House
             </Typography>
             <Typography component={'p'} color={'text.secondary'}>
-              Three queen beds and a single bed spread across the two-story home.
+              Three queen beds spread across the two-story home.
               Live in your remote home in the heart of Rothesay.
               <br/><br/>
               <Box
@@ -47,7 +47,7 @@ const WhatsIncluded = () => {
               >
                 <BedOutlinedIcon/>
               </Box>
-              3 Queen Beds, 1 Single Bed
+              3 Queen Beds
               <br/><br/>
               <Box
                 component={'svg'}

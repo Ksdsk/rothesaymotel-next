@@ -16,7 +16,7 @@ const mock = [
   {
     media: 'https://i.imgur.com/OEBQNsH.jpg',
     title: 'Historic Cabin',
-    price: '$70 ~ $95 / night',
+    price: '$70 ~ $105 / night',
     beds: '1 Double Bed',
     description: '1 Guest',
     href: '/rooms/historic-cabin'
@@ -24,7 +24,7 @@ const mock = [
   {
     media: 'https://i.imgur.com/cQb5FVZ.jpg',
     title: 'Motel Units / 1 Bed',
-    price: '$95 - $130 / night',
+    price: '$95 - $140 / night',
     beds: '1 King Bed',
     description: '1-2 Guests + 1 Child',
     href: '/rooms/motel-units'
@@ -32,7 +32,7 @@ const mock = [
   {
     media: 'https://i.imgur.com/NtZtO97.jpg',
     title: 'Motel Units / 2 Beds',
-    price: '$95 ~ $136 / night',
+    price: '$95 ~ $155 / night',
     beds: '2 Double Beds OR 2 Queen Beds',
     description: '2-4 Guests',
     href: '/rooms/motel-units'
@@ -40,7 +40,7 @@ const mock = [
   {
     media: 'https://i.imgur.com/tLqYptR.jpg',
     title: 'Apartments',
-    price: '$145 ~ $199 / night',
+    price: '$145 ~ $220 / night',
     beds: 'Options from 2 Double Beds to 2 Queen Beds',
     description: '2-4 Guests',
     href: '/rooms/apartments'
@@ -48,7 +48,7 @@ const mock = [
   {
     media: 'https://i.imgur.com/OlASSxP.jpg',
     title: 'Cottage',
-    price: '$169 ~ $259 / night',
+    price: '$169 ~ $270 / night',
     beds: '2 Queen Beds + One Futon Bed',
     description: '2~5 Guests',
     href: '/rooms/cottage'
@@ -56,8 +56,8 @@ const mock = [
   {
     media: 'https://i.imgur.com/8KQOQQl.jpg',
     title: 'Deluxe Family House',
-    price: '$259 ~ $359/ night',
-    beds: '3 Queen Beds + One Single Bed',
+    price: '$259 ~ $370/ night',
+    beds: '3 Queen Beds',
     description: '4-6 Guests',
     href: '/rooms/deluxe-family-house'
   },
