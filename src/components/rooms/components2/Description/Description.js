@@ -127,7 +127,7 @@ const WhatsIncluded = () => {
               Room 10
             </Typography>
             <Typography component={'p'} color={'text.secondary'}>
-              A queen bed in one room, and a double bed in the other, perfect for friends and family.
+              Two queen beds, one in each room, perfect for friends and family.
               Live in the apartment with fully furnished interior ready for dining.
               <br/><br/>
               <Box
@@ -143,7 +143,7 @@ const WhatsIncluded = () => {
               >
                 <BedOutlinedIcon/>
               </Box>
-              1 Queen Bed, 1 Double Bed
+              2 Queen Beds
               <br/><br/>
               <Box
                 component={'svg'}
