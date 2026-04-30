@@ -143,7 +143,7 @@ const WhatsIncluded = () => {
               >
                 <BedOutlinedIcon/>
               </Box>
-              1 Queen Bed, 1 Double Bed
+              2 Queen Beds
               <br/><br/>
               <Box
                 component={'svg'}

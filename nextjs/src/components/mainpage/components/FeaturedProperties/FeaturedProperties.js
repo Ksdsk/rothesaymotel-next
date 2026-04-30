@@ -48,13 +48,6 @@ const mock = [
     beds: '2 Queen Beds + One Futon Bed',
     description: '2~5 Guests'
   },
-  {
-    media: 'https://i.imgur.com/8KQOQQl.jpg',
-    title: 'Deluxe Family House',
-    price: '$240 ~ $289 / night',
-    beds: '3 Queen Beds + One Single Bed',
-    description: '4-6 Guests'
-  },
 ];
 
 const FeaturedProperties = () => {
@@ -94,9 +87,9 @@ const FeaturedProperties = () => {
           color={'text.secondary'}
           data-aos={'fade-up'}
         >
-          Check out our rooms, from small yet historic cabins to our huge 
+          Check out our rooms, from small yet historic cabins to our spacious 
           <br />
-          two-story family house with a full kitchen!
+          two-story cottage with a full kitchen!
         </Typography>
       </Box>
       <Grid container spacing={4}>

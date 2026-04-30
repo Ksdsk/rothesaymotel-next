@@ -38,13 +38,6 @@ const roomList = [
     title: 'Cottage',
     ref: '/rooms/cottage'
   },
-  {
-    image: 'https://i.imgur.com/8KQOQQl.jpg',
-    description:
-      'An entire 2,000+ sq.ft fully-furnished home for you and your loved ones.',
-    title: 'Deluxe Family House',
-    ref: '/rooms/deluxe-family-house'
-  },
 ];
 
 const Rooms = () => {

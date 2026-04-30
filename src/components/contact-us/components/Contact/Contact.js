@@ -10,7 +10,7 @@ const mock = [
   {
     title: "Phone",
     subtitle:
-      '+1 (506) 847-7168',
+      '+1 (506) 721-7969',
   },
   {
     title: "Email",

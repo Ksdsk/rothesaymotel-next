@@ -16,10 +16,6 @@ const pages = {
       title: 'Cottage',
       href: '/rooms/cottage',
     },
-    {
-      title: 'Deluxe Family House',
-      href: '/rooms/deluxe-family-house',
-    },
   ],
   gallery: [
     
